@@ -20,6 +20,10 @@ Notes and summaries.
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
+## Copywriting
+
+[Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
+
 ## Programming
 
 [Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
