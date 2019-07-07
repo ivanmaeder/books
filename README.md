@@ -2,9 +2,13 @@
 
 Notes and summaries.
 
+## Agile
+
+[Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
+
 ## Programming
 
-[Clean Code: A Handbook of Agile Software Craftsmanship](./clean-code.md). Robert C Martin (2008)
+[Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
 
 [Passionate Programmer, The: Creating a Remarkable Career in Software Development](./programming/passionate-programmer.md). Chad Fowler (2009)
 
