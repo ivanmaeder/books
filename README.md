@@ -2,7 +2,11 @@
 
 Notes and summaries.
 
-## Agile
+## Management
+
+[Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
+
+### Agile
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
