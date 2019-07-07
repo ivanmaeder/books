@@ -6,6 +6,8 @@ Notes and summaries.
 
 [Crossing the Chasm](./business/crossing-the-chasm.md). Geoffrey Moore (1991)
 
+[Shoe Dog: A Memoir by the Creator of Nike](./business/shoe-dog.md). Phil Knight (2016)
+
 ## Management
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
