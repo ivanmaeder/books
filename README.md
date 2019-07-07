@@ -6,6 +6,8 @@ Notes and summaries.
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
+[Failure is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
+
 ### Agile
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
