@@ -1,4 +1,4 @@
-# The Passionate Programmer
+# The Passionate Programmer: Creating a Remarkable Career in Software Development
 By Chad Fowler (2009)
 
 ## My Notes
