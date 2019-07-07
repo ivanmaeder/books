@@ -14,6 +14,8 @@ Notes and summaries.
 
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
+[Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
+
 ### Agile
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
