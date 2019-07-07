@@ -13,7 +13,7 @@ Ward Cunningham:
 
 Various interlocking ideas and practices: trust, co-location, pair programming, TDD, customer involvement, stand-ups, coding standards, refactoring, iterative development, sprint demos, risk management, spike stories, technical debt, simplicity…
 
-You don't get to pick and choose anything. E.g., refactoring needs TDD.
+You don't get to pick and choose anything. E.g., emergent design depends on refactoring which depends on TDD, which in many places will depend on trust.
 
 ### Trust
 
