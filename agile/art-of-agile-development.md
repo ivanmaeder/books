@@ -64,7 +64,7 @@ Not sure if this is from this book: sprints, velocity, etc avoid the situation w
 - You're made to suffer because delivery was "late"
 - Next time you add padding
 - Management knows, assumes or catches on that estimates are padded, so they push for estimates to be revised down
-- Instead of having an open and productive conversation about uncertainty, risk, flexible scope, etc, it becomes a negotiation
+- Instead of having an open and productive conversation about uncertainty, risk, flexible scope, needs, compromise, etc, it becomes a negotiation where each side distrusts the other
 
 ☝️ Also, with padding and [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law), it's possible work is delivered later than necessary. Also, remember this benefit of iterative development: development can be halted at any time, even before finishing everything in the backlog, once the customer's needs are met.
 
