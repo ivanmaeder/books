@@ -64,12 +64,6 @@ E.g., this function can only be called **after** this other one.
 
 > The proper use of comments is to compensate for our failure to express ourself in code.
 
-E.g., the only purpose of `minGutter` is to explain that the value
-
-```javascript
-let minGutter = timeInDays
-```
-
 ### Objects vs Data Structures
 
 > In any complex system there are going to be times when we want to add new data types rather than new functions. For these cases objects and OO are most appropriate. On the other hand, there will also be times when we’ll want to add new functions as opposed to data types. In that case procedural code and data structures will be more appropriate.
