@@ -11,9 +11,9 @@ Ward Cunningham:
 
 ## My Notes
 
-Various interlocking ideas and practices: trust, co-location, pair programming, TDD, customer involvement, stand-ups, coding standards, refactoring, iterative development, sprint demos, risk management, spike stories, technical debt, simplicity…
+Various interlocking ideas and practices: trust, co-location, pair programming, TDD, customer involvement, stand-ups, coding standards, refactoring, iterative development, emergent design, sprint demos, risk management, spike stories, technical debt, simplicity, time-boxking…
 
-You don't get to pick and choose anything. E.g., emergent design depends on refactoring which depends on TDD, which in many places will depend on trust.
+You don't get to pick and choose any combination. E.g., emergent design depends on refactoring which depends on TDD, which in many environments will require trust.
 
 ### Trust
 
@@ -55,6 +55,19 @@ Typical sprint planning: demo (30 minutes), retrospective (1 hour), planning (up
 
 Don't finish iterations on Friday (work shouldn't slip into the weekend, and a last-minute rush doesn't work well on a Friday).
 
+### Estimates
+
+Not sure if this is from this book: sprints, velocity, etc avoid the situation where:
+
+- You made an estimate
+- It was too optimistic
+- You're made to suffer because delivery was "late"
+- Next time you add padding
+- Management knows, assumes or catches on that estimates are padded, so they push for estimates to be revised down
+- Instead of having an open and productive conversation about uncertainty, risk, flexible scope, etc, it becomes a negotiation
+
+☝️ Also, with padding and [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law), it's possible work is delivered later than necessary. Also, remember this benefit of iterative development: development can be halted at any time, even before finishing everything in the backlog, once the customer's needs are met.
+
 ### Releasing
 
 The point is not to release all the time but enable you to release at any time.
@@ -79,7 +92,7 @@ Nobody owns any particular parts of code and quality is everyone's responsibilit
 
 > Every week your design should be better than it was the week before.
 
-### Project Vision
+### Vision
 
 Explain why our work is important.
 
