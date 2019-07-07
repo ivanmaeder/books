@@ -2,11 +2,15 @@
 
 Notes and summaries.
 
+## Business
+
+[Crossing the Chasm](./business/crossing-the-chasm.md). Geoffrey Moore (1991)
+
 ## Management
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
-[Failure is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
+[Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
 ### Agile
 
