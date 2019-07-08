@@ -3,10 +3,10 @@ By Gene Kranz (2000)
 
 ## My Notes
 
-It's a different way of working:
+It's a unique environment:
 
 - Everything needs to be ironed out beforehand. Alternatives need to be fleshed out, procedures for every case defined
-- You can’t brainstorm, argue or second-guess during countdown
+- You can't brainstorm, argue or second-guess during countdown
 
 Otherwise, it's business as usual:
 

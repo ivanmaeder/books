@@ -19,7 +19,7 @@ By Geoffrey Moore (1991)
 #### Early Adopters
 
 - Visionaries. They "imagine, understand, and appreciate the benefits"
-- Relate benefits to concerns
+- Relate benefits to actual problems
 - Looking for a breakthrough (order of magnitude improvement)
 - Will take risks
 - Least price-sensitive of all
@@ -32,11 +32,10 @@ By Geoffrey Moore (1991)
 - Practical, weary of fads
 - Not risk takers: they need to see well-established references; they buy from proven market leaders
 - Competition (signal of market maturity) is a "condition for purchase"
-- They an incremental, measureable, predictable improvement
+- They expect an incremental, measureable, predictable improvement
 - Can be loyal
 - Reasonably price-sensitive
 - Communicate with others in their vertical
-Communicate more with others in their vertical (vs early adopters—horizontal)
 
 #### Late Majority
 
@@ -50,24 +49,24 @@ Communicate more with others in their vertical (vs early adopters—horizontal)
 #### Laggards
 
 - Will only use when product is concealed in another (e.g., microchips in a car)
-- Don't bother otherwise: they block purchases, they argue
+- Don't bother: they block purchases, they argue
 
 ### Process
 
 - The groups don't mingle, you have to change tactics for each
-- The product is important to the techie, then les (conservatives are very service-oriented)
+- The product is important to the techie, then less and less (conservatives are very service-oriented)
 - Begin on a very focused target—"an overwhelmingly superior force on a highly focused target"—before branching out
-- Otherwise the message is diffused too quickly and word-of-mouth momentum dies out, and you're back to step one
+- Otherwise the message is diffused too quickly, word-of-mouth momentum dies out, and you're back to step one
 
 ### Strategy
 
-Identify two competitors:
+Identify two alternatives:
 
 - Market (traditional leader)
-- Product (similar to your offering gives your product credibility)
+- Product (similar to your offering, gives your product credibility)
 
 Position yourself as having the benefits of both.
 
-If you can't find these alternatives, beware. The customer has to have the budget, or at least: "allocated to some brain-dead, ineffective Band-Aid approach to solving what has become a broken, mission-critical process… Else you will lose a full year just in educating the market…"
+If you can't find these alternatives, beware. The customer has to have the budget, or at least: "allocated to some brain-dead, ineffective Band-Aid approach to solving what has become a broken, mission-critical process… Else you will lose a full year just in educating the market."
 
 If you can't elevator pitch the idea, it can't spread through word of mouth.
