@@ -37,7 +37,7 @@ In agile:
 - T-shaped resources and queue management (how?) remove critical paths
 - Progress is measured by work delivered and validated; not a plan being followed
 
--
+---
 
 Focus on idle work (the baton, not the runners).
 
