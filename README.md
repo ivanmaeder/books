@@ -24,6 +24,8 @@ Notes and summaries.
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
+[Essential Scrum: A Practical Guide to the Most Popular Agile Process](./agile/essential-scrum.md). Kenneth S Rubin (2012)
+
 [Scrum: The Art of Doing Twice the Work in Half the Time](./agile/scrum.md). Ron Jeffries (2014)
 
 ## Programming
