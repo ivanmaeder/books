@@ -24,6 +24,8 @@ Notes and summaries.
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
+[Scrum: The Art of Doing Twice the Work in Half the Time](./agile/scrum.md). Ron Jeffries (2014)
+
 ## Programming
 
 [Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
