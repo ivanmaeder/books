@@ -18,11 +18,9 @@ Notes and summaries.
 
 ### Agile
 
+[Agile Coaching](./agile/agile-coaching.md).  Liz Sedley, Rachel Davies (2009)
+
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
-
-## Copywriting
-
-[Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
 
 ## Programming
 
@@ -32,3 +30,6 @@ Notes and summaries.
 
 [Test-Driven Development by Example](./programming/test-driven-development-by-example.md). Kent Beck (2000)
 
+## Copywriting
+
+[Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
