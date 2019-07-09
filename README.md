@@ -18,7 +18,9 @@ Notes and summaries.
 
 ### Agile
 
-[Agile Coaching](./agile/agile-coaching.md).  Liz Sedley, Rachel Davies (2009)
+[Agile Coaching](./agile/agile-coaching.md). Liz Sedley, Rachel Davies (2009)
+
+[Agile Estimating and Planning](./agile/agile-estimating-and-planning.md). Mike Cohn (2005)
 
 [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
