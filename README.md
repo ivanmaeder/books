@@ -40,6 +40,10 @@ Notes and summaries.
 
 [Test-Driven Development by Example](./programming/test-driven-development-by-example.md). Kent Beck (2000)
 
+## Maths
+
+[Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
+
 ## Science
 
 [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
