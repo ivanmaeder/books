@@ -1,5 +1,6 @@
 # Agile Estimating and Planning
-By Mike Cohn
+
+By Mike Cohn (2005)
 
 Ron Jeffries:
 

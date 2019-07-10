@@ -1,5 +1,6 @@
 # Essential Scrum: A Practical Guide to the Most Popular Agile Process
-By Kenneth S Rubin
+
+By Kenneth S Rubin (2012)
 
 ## My Notes
 

@@ -1,4 +1,5 @@
 # Bad Blood: Secrets and Lies in a Silicon Valley Startup
+
 By John Carreyrou (2018)
 
 ## My Notes

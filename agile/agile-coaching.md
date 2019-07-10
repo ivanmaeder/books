@@ -1,5 +1,6 @@
 # Agile Coaching
-By Liz Sedley, Rachel Davies
+
+By Liz Sedley, Rachel Davies (2009)
 
 > What a team needs from you is guidance on what they can do and a show of courage to make these changes a reality.
 

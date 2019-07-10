@@ -1,5 +1,6 @@
 # Scrum: The Art of Doing Twice the Work in Half the Time
-By Ron Jeffries
+
+By Ron Jeffries (2014)
 
 ## My Notes
 

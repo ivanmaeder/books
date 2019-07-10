@@ -1,5 +1,10 @@
 # Developing Products in Half the Time
+
 By Preston G. Smith, Donald G. Reinertsen (1997)
+
+> We are reminder of the story if the wise man who was approached by a youth who asked him how king it would take to walk to Athens. The wise man simply replied, "Get going!" The youth, disappointed, concludes that he would not get a straight answer and began walking in the direction of Athens. After the youth had taken about 20 steps, the wise man called out, "About four hours!" The youth turned and said, "Why didn't you tell me that when I asked before?"
+> 
+> "First I had to see how fast you walked," said the wise man.
 
 ## My Notes
 
@@ -43,9 +48,3 @@ Let people fail:
 > A Native American proverb says that good judgment comes from experience, and experience comes from bad judgment.
 
 💡 Projects should deliver two outcomes: the product, and learning about the process.
-
-Velocity!
-
-> We are reminder of the story if the wise man who was approached by a youth who asked him how king it would take to walk to Athens. The wise man simply replied, "Get going!" The youth, disappointed, concludes that he would not get a straight answer and began walking in the direction of Athens. After the youth had taken about 20 steps, the wise man called out, "About four hours!" The youth turned and said, "Why didn't you tell me that when I asked before?"
-> 
-> "First I had to see how fast you walked," said the wise man.

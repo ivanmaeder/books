@@ -12,6 +12,8 @@ Notes and summaries.
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
+[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](./management/dealers-of-lightning.md). Michael A Hiltzik (1999)
+
 [Developing Products in Half the Time](./management/developing-products-in-half-the-time.md). Preston G Smith, Donald G Reinertsen (1997)
 
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)

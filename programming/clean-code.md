@@ -1,4 +1,5 @@
 # Clean Code: A Handbook of Agile Software Craftsmanship
+
 By Robert C Martin (2008)
 
 > If we all checked-in our code a little cleaner than when we checked it out, the code simply could not rot.

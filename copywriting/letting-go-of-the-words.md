@@ -1,5 +1,6 @@
 # Letting Go of the Words
-By Janice Redish
+
+By Janice Redish (2007)
 
 ## My Notes
 

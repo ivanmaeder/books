@@ -1,4 +1,5 @@
 # The Art of Agile Development
+
 By James Shore (2003)
 
 > As a programmer you must be able to produce customer value, from scratch, in a single week.
