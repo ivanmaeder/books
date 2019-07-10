@@ -12,6 +12,8 @@ Notes and summaries.
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
+[Developing Products in Half the Time](./management/developing-products-in-half-the-time.md). Preston G Smith, Donald G Reinertsen (1997)
+
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
 [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
