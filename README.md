@@ -46,6 +46,8 @@ Notes and summaries.
 
 ## Science
 
+[Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
+
 [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
 
 ## Copywriting
