@@ -42,6 +42,8 @@ Notes and summaries.
 
 ## Maths
 
+[How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
+
 [Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
 
 ## Science
