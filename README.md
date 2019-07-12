@@ -32,6 +32,10 @@ Notes and summaries.
 
 [Scrum: The Art of Doing Twice the Work in Half the Time](./agile/scrum.md). Ron Jeffries (2014)
 
+## Productivity
+
+[Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
+
 ## Programming
 
 [Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
