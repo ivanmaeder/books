@@ -48,6 +48,8 @@ Notes and summaries.
 
 ## Science
 
+[Behave: The Biology of Humans at Our Best and Worst](./science/behave.md). Robert Sapolsky (2017)
+
 [Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
 
 [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
