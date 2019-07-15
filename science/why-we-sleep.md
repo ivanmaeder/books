@@ -52,7 +52,7 @@ People have a strong genetic predisposition to sleep and wake early, or late, bu
 
 Your body cannot recover lost sleep.
 
-Sleep is induced through the circadian rhythm (24-hour clock) and a build-up while awake of adenosine (sleep pressure). Caffeine blocks adenosine receptors. Sleep clears adenosine.
+Sleep is induced through the 24-hour circadian rhythm (reset by light) and a build-up ("sleep pressure") while awake of adenosine (reset with sleep). Caffeine blocks adenosine receptors.
 
 > All humans, irrespective of culture or geographical location, have a genetically hardwired dip in alertness that occurs in the midafternoon hours.
 
