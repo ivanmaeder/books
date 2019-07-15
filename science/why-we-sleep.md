@@ -35,15 +35,15 @@ Lack of sleep has worse effects than the equivalent absence of food or exercise.
 
 ### Tips
 
-- No less than 8 hours of sleep per night (for adults, children need more sleep)
-- Environment: comfortable, clean (important!), cold/cool (18.3º ideally)
-- Use a routine:
+- No less than 8 hours of sleep per night (for adults; children need more sleep)
+- Environment: comfortable, clean (important!), cold/cool (ideally 18.3º C)
+- Follow a routine:
 	- Follow the same sleep schedule every day (including weekends)
 	- Ideally exercise in the morning in full sunlight
 	- Do not eat/drink 2 to 3 hours before bedtime
-	- Cut electrical light, especially LED light (including: phones, computers, TV)
+	- Cut electrical light at night, especially LED light (including: phones, computers, TV)
 	- Try meditation and/or a hot shower before bedtime
-- Alcohol and sleeping medications sedate but are not generally helpful
+- Alcohol and sleep medications sedate but are not generally helpful
 - Naps: in the morning only, and only up to 30 minutes
 
 All animals sleep, it's a necessary function for health. Even migrating birds, swimming whales…
