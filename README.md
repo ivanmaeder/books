@@ -16,6 +16,8 @@ Notes and summaries.
 
 [Developing Products in Half the Time](./management/developing-products-in-half-the-time.md). Preston G Smith, Donald G Reinertsen (1997)
 
+[Drive: The Surprising Truth About What Motivates Us](./management/drive.md). Daniel H Pink (2009)
+
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
 [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
