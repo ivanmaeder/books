@@ -34,6 +34,8 @@ Notes and summaries.
 
 ## Productivity
 
+[Deep Work](./productivity/deep-work.md). Cal Newport (2016)
+
 [Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
 
 ## Programming
