@@ -12,7 +12,7 @@ Ward Cunningham:
 
 ## My Notes
 
-Various interlocking ideas and practices: trust, co-location, pair programming, TDD, customer involvement, stand-ups, coding standards, refactoring, iterative development, emergent design, sprint demos, risk management, spike stories, technical debt, simplicity, time-boxking…
+Various interlocking ideas and practices: trust, co-location, pair programming, TDD, customer involvement, stand-ups, coding standards, refactoring, iterative development, emergent design, sprint demos, risk management, spike stories, technical debt, simplicity, time-boxing…
 
 You don't get to pick and choose any combination. E.g., emergent design depends on refactoring which depends on TDD, which in many environments will require trust.
 

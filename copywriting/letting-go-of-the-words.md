@@ -11,7 +11,7 @@ By Janice Redish (2007)
 - "We" for the company, "you" for the reader
 - Lists, especially short lists
 - Tables when you have numbers to compare; or if-then sentences
-- Don't center text in tables
+- Don't centre text in tables
 - Lists, tables, headings, etc break up walls of text
 - No cute terms, or terms used internally or for marketing, or even unclear product names
 - Use the words of your readers

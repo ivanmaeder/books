@@ -6,7 +6,7 @@ By Geoffrey Moore (1991)
 
 ### Life Cycle
 
-![Crossing the Chams](https://cdn-images-1.medium.com/max/1600/0*KIXz2tAVqXVREkyd.png)
+![](https://cdn-images-1.medium.com/max/1600/0*KIXz2tAVqXVREkyd.png)
 
 #### Innovators
 
@@ -33,7 +33,7 @@ By Geoffrey Moore (1991)
 - Practical, weary of fads
 - Not risk takers: they need to see well-established references; they buy from proven market leaders
 - Competition (signal of market maturity) is a "condition for purchase"
-- They expect an incremental, measureable, predictable improvement
+- They expect an incremental, measurable, predictable improvement
 - Can be loyal
 - Reasonably price-sensitive
 - Communicate with others in their vertical

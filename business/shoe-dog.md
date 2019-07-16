@@ -11,4 +11,3 @@ By Phil Knight (2016)
 > And yet we were always laughing. Sometimes, after a really cathartic guffaw, I’d look around the table and feel overcome by emotion. Camaraderie, loyalty, gratitude. Even love. Surely love.
 
 > When you hired an accountant, you knew he or she could count. When you hired a lawyer, you knew he or she could talk. When you hired a marketing expert, or product developer, what did you know? Nothing.
-
