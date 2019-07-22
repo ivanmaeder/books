@@ -18,6 +18,8 @@ Notes and summaries.
 
 [Drive: The Surprising Truth About What Motivates Us](./management/drive.md). Daniel H Pink (2009)
 
+[Essential Drucker, The](./management/essential-drucker.md). Peter Drucker (2000)
+
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
 [Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
