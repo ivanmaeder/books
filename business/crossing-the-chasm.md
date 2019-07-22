@@ -19,19 +19,19 @@ By Geoffrey Moore (1991)
 
 #### Early Adopters
 
-- Visionaries. They "imagine, understand, and appreciate the benefits"
+- Visionaries—"imagine, understand, and appreciate the benefits"
 - Relate benefits to actual problems
 - Looking for a breakthrough (order of magnitude improvement)
 - Will take risks
 - Least price-sensitive of all
-- Easy to sell to, hard to please (expectation management is important)
-- They find you because they have relationships with innovators; horizontal
+- Easy to sell to, hard to please (manage expectations)
+- They find you because they have (horizontal) relationships with innovators
 
 #### Early Majority
 
 - 1/3 of the market
 - Practical, weary of fads
-- Not risk takers: they need to see well-established references; they buy from proven market leaders
+- Not risk takers: need to see well-established references; buy from proven market leaders
 - Competition (signal of market maturity) is a "condition for purchase"
 - They expect an incremental, measurable, predictable improvement
 - Can be loyal
@@ -50,7 +50,7 @@ By Geoffrey Moore (1991)
 #### Laggards
 
 - Will only use when product is concealed in another (e.g., microchips in a car)
-- Don't bother: they block purchases, they argue
+- Don't bother: they argue, block purchases
 
 ### Process
 
