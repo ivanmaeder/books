@@ -20,6 +20,8 @@ Notes and summaries.
 
 [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
+[Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
+
 [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
 
 ### Agile

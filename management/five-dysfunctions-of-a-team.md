@@ -18,8 +18,6 @@ By Patrick Lencioni (2002)
 
 > Politics is when people choose their words and actions based on how they want others to react rather than based on what they really think.
 
-> When people don't unload their opinions and feel like they've been listened to, they won't really get on board.
-
 > Consensus is horrible… It becomes an attempt to please everyone.
 > 
 > … The point here is that most reasonable people don't have to get their way in a discussion. They just need to be heard, and to know that their input was considered and responded to.
