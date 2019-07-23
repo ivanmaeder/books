@@ -22,7 +22,7 @@ As an author, `k` (for key in an associative array), and `v` (for the value) are
 
 #### Be Specific
 
-Instead of:
+E.g., instead of:
 
 ```java
 public updateCoordinate(int x, int y) {
@@ -62,6 +62,24 @@ E.g., this function can only be called **after** this other one.
 ### Comments
 
 💡 Avoid comments at all costs. Instead: self-documenting code.
+
+E.g., instead of:
+
+```java
+if (bytes[2] != 0) { //file format is valid
+    //...
+}
+```
+
+… use an additional variable that describes the intent, context, etc:
+
+```java
+boolean isValidFileFormat = bytes[2] != 0;
+
+if (isValidFileFormat) {
+    //...
+}
+```
 
 > The proper use of comments is to compensate for our failure to express ourself in code.
 
