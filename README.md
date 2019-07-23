@@ -24,6 +24,8 @@ Notes and summaries.
 
 [Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
 
+[Innovators, The: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](./management/innovators.md). Walter Isaacson (2014)
+
 [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
 
 ### Agile
