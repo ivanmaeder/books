@@ -26,6 +26,8 @@ Notes and summaries.
 
 [Innovators, The: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](./management/innovators.md). Walter Isaacson (2014)
 
+[Turn the Ship Around!: How to Create Leadership at Every Level](./management/turn-the-ship-around.md). L David Marquet (2012)
+
 [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
 
 ### Agile
