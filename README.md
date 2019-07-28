@@ -18,6 +18,8 @@ Notes and summaries.
 
 [Developing Products in Half the Time](./management/developing-products-in-half-the-time.md). Preston G Smith, Donald G Reinertsen (1997)
 
+[Do Lead: Share Your Vision. Inspire Others. Achieve the Impossible](./management/do-lead.md). Les McKeown (2014)
+
 [Drive: The Surprising Truth About What Motivates Us](./management/drive.md). Daniel H Pink (2009)
 
 [Essential Drucker, The](./management/essential-drucker.md). Peter Drucker (2000)
