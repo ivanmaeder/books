@@ -28,6 +28,8 @@ Notes and summaries.
 
 [Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
 
+[Idea Factory, The: Bell Labs and the Great Age of American Innovation](./management/idea-factory.md). Jon Gertner (2012)
+
 [Innovators, The: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](./management/innovators.md). Walter Isaacson (2014)
 
 [Surely You're Joking, Mr. Feynman!](./management/surely-youre-joking-mr-feynman.md) Richard Feynman (1985)
