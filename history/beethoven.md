@@ -29,7 +29,7 @@ Ferdinand Ernst Gabriel von Waldstein:
 
 ### Eroica
 
-> In the op. 35 Variations, Beethoven took up the bass line and *englische* melody from the end of the *Prometheus* ballet (by then also used as a theme in a set of contredanses). The unique idea here, as he labeled the first sections in the score, is to start the piece with only the naked bass line of the theme: *Introduzione col Basso del Tema*. Then follow a series of variations adding a voice at a time, labeled a due, a tre, a quattro, until we arrive in variation 4 at music under the heading *Thema (aus dem Ballet "Die Geschöpfe des Prometheus")*.
+> In the op. 35 Variations, Beethoven took up the bass line and *englische* melody from the end of the *Prometheus* ballet (by then also used as a theme in a set of contredanses). The unique idea here, as he labeled the first sections in the score, is to start the piece with only the naked bass line of the theme: *Introduzione col Basso del Tema*. Then follow a series of variations adding a voice at a time, labeled *a due*, *a tre*, *a quattro*, until we arrive in variation 4 at music under the heading *Thema (aus dem Ballet "Die Geschöpfe des Prometheus")*.
 > 
 > Here again in pieces of summer 1802, the nature of the form poses a fundamental question: what actually *is* the theme—the bass line, or the treble *englische* melody that does not turn up until the fourth variation? Or to put it another way, this is a singular set of variations that amounts, in the beginning, to a bass line searching for its melody as a kind of fulfillment. The rest of the piece proceeds with a sense that the abiding, generating presence is the *basso* that flaunts its elemental simplicity. For Beethoven, that blunt and ingenuous little bass theme already seemed to possess an iconic significance, not just in its structure but in its character—not just a dance but some kind of ethos.
 > 
@@ -43,7 +43,7 @@ Friedrich Schiller:
 
 > Here is the meaning of the simple contredanse that underlies a heroic symphony: the *englische* as image of the ideal society, the conquering Hero's gift to humanity.
 
-> In nearly the whole of an issue with Beethoven's picture on the cover, the *Allgemeine Musikalische Zeitung* hailed the publication of the *Prometheus* Variations in these kinds of terms: "inexhaustible imagination, original humor, and deep, intimate, even passionate feeling are the particular features… from which arises the ingenious physiognomy that distinguishes nearly all of Herr v. B's works. This earns him one of the highest places among instrumental composers of the first rank."
+> In nearly the whole of an issue with Beethoven's picture on the cover, the *Allgemeine Musikalische Zeitung* hailed the publication of the *Prometheus* Variations in these kinds of terms: "inexhaustible imagination, original humor, and deep, intimate, even passionate feeling are the particular features…"
 
 ### Late Period
 
