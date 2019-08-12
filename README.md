@@ -85,3 +85,7 @@ Notes and summaries.
 ## Copywriting
 
 [Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
+
+## History
+
+[Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
