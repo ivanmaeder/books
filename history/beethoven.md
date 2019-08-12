@@ -39,7 +39,9 @@ Ferdinand Ernst Gabriel von Waldstein:
 
 Friedrich Schiller:
 
-> I can think of no more fitting image for the ideal of social conduct than an English dance, composed of many complicated figures and perfectly executed. A spectator… sees innumerable movements intersecting in the most chaotic fashion… yet *never colliding*… It is all so skillfully, and yet so artlessly, integrated into a form, that each seems only to be following his own inclination, yet without ever getting in the way of anybody else. It is the most perfectly appropriate symbol of the assertion of one's own freedom and regard for the freedom of others. Here is the meaning of the simple contredanse that underlies a heroic symphony: the englische as image of the ideal society, the conquering Hero's gift to humanity.
+> I can think of no more fitting image for the ideal of social conduct than an English dance, composed of many complicated figures and perfectly executed. A spectator… sees innumerable movements intersecting in the most chaotic fashion… yet *never colliding*… It is all so skillfully, and yet so artlessly, integrated into a form, that each seems only to be following his own inclination, yet without ever getting in the way of anybody else. It is the most perfectly appropriate symbol of the assertion of one's own freedom and regard for the freedom of others.
+
+> Here is the meaning of the simple contredanse that underlies a heroic symphony: the *englische* as image of the ideal society, the conquering Hero's gift to humanity.
 
 > In nearly the whole of an issue with Beethoven's picture on the cover, the *Allgemeine Musikalische Zeitung* hailed the publication of the *Prometheus* Variations in these kinds of terms: "inexhaustible imagination, original humor, and deep, intimate, even passionate feeling are the particular features… from which arises the ingenious physiognomy that distinguishes nearly all of Herr v. B's works. This earns him one of the highest places among instrumental composers of the first rank."
 
