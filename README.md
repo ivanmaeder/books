@@ -32,6 +32,8 @@ Notes and summaries.
 
 [Innovators, The: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](./management/innovators.md). Walter Isaacson (2014)
 
+[Skunk Works: A Personal Memoir of My Years of Lockheed](./management/skunk-works.md). Ben Rich, Leo Janos (1994)
+
 [Surely You're Joking, Mr. Feynman!](./management/surely-youre-joking-mr-feynman.md) Richard Feynman (1985)
 
 [Turn the Ship Around!: How to Create Leadership at Every Level](./management/turn-the-ship-around.md). L David Marquet (2012)
