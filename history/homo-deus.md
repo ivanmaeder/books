@@ -55,7 +55,7 @@ Information overload:
 
 >  In the twenty-first century, censorship works by flooding people with irrelevant information. People just don’t know what to pay attention to, and they often spend their time investigating and debating side issues. In ancient times having power meant having access to data. Today having power means knowing what to ignore.
 
-Conclusion:
+Intelligence or consciousness?
 
 > … what should we focus on? If we think in term of months, we had probably focus on immediate problems such as the turmoil in the Middle East, the refugee crisis in Europe and the slowing of the Chinese economy. If we think in terms of decades, then global warming, growing inequality and the disruption of the job market loom large. Yet if we take the really grand view of life, all other problems and developments are overshadowed by three interlinked processes:
 > 
