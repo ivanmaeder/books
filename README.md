@@ -58,6 +58,8 @@ Notes and summaries.
 
 [How to Fail at Almost Everything and Still Win Big](./productivity/how-to-fail-at-almost-everything-and-still-win-big.md). Scott Adams (2013)
 
+[Little Book of Confidence, The](./productivity/little-book-of-confidence.md). Susan Jeffers (1999)
+
 [Quiet: The Power of Introverts in a World That Can't Stop Talking](./productivity/quiet.md). Susan Cain (2012)
 
 [Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
