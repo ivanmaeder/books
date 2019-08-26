@@ -91,3 +91,5 @@ Notes and summaries.
 ## History
 
 [Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
+
+[Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
