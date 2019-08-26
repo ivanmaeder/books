@@ -54,3 +54,17 @@ Happiness:
 Information overload:
 
 >  In the twenty-first century, censorship works by flooding people with irrelevant information. People just don’t know what to pay attention to, and they often spend their time investigating and debating side issues. In ancient times having power meant having access to data. Today having power means knowing what to ignore.
+
+Conclusion:
+
+> … what should we focus on? If we think in term of months, we had probably focus on immediate problems such as the turmoil in the Middle East, the refugee crisis in Europe and the slowing of the Chinese economy. If we think in terms of decades, then global warming, growing inequality and the disruption of the job market loom large. Yet if we take the really grand view of life, all other problems and developments are overshadowed by three interlinked processes:
+> 
+> 1. Science is converging on an all-encompassing dogma, which says that organisms are algorithms, and life is data processing.
+> 2. Intelligence is decoupling from consciousness.
+> 3. Non-conscious but highly intelligent algorithms may soon know us better than we know ourselves.
+> 
+> These three processes raise three key questions, which I hope will stick in your mind long after you have finished this book:
+> 
+> 1. Are organisms really just algorithms, and is life really just data processing?
+> 2. What's more valuable – intelligence or consciousness?
+> 3. What will happen to society, politics and daily life when non-conscious but highly intelligent algorithms know us better than we know ourselves?

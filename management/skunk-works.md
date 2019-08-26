@@ -1,4 +1,4 @@
-# Skunk Works: A Personal Memoir of My Years of Lockheed]
+# Skunk Works: A Personal Memoir of My Years of Lockheed
 
 By Ben Rich, Leo Janos (1994)
 
