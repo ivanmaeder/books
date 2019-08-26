@@ -60,9 +60,11 @@ Notes and summaries.
 
 [Little Book of Confidence, The](./productivity/little-book-of-confidence.md). Susan Jeffers (1999)
 
+[Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
+
 [Quiet: The Power of Introverts in a World That Can't Stop Talking](./productivity/quiet.md). Susan Cain (2012)
 
-[Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
+[7 Habits of Highly Effective People, The](./productivity/seven-habits.md). Stephen Covey (1989)
 
 ## Programming
 
