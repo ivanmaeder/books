@@ -82,6 +82,8 @@ Notes and summaries.
 
 [Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
 
+[The Sleep Solution: Why Your Sleep is Broken and how to Fix it](./science/sleep-solution.md). W Chris Winter (2017)
+
 [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
 
 ## Copywriting
