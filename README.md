@@ -12,6 +12,8 @@ Notes and summaries.
 
 [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
+[Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](./management/blood-sweat-pixels.md). Jason Reier (2017)
+
 [Crucial Conversations: Tools for Talking When Stakes Are High](./management/crucial-conversations.md). Al Switzler, Joseph Grenny, Ron McMillan (2002)
 
 [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](./management/dealers-of-lightning.md). Michael A Hiltzik (1999)

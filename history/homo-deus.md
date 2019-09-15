@@ -6,38 +6,47 @@ By Yuval Noah Harari
 
 ## My Notes
 
-The numbers show: Coca-Cola kills, there are too many dogs, and religion… 🤔
+Coca-Cola kills, there are too many dogs, and religion… 🤔
 
-Deaths:
+Total number of deaths worldwide:
 
 |Obesity and related illnesses|Terrorism|
 |-----------------------------|---------|
 |                    3,000,000|    7,697|
 
+☝️ 2010 figures.
+
 > For the average American or European, Coca-Cola poses a far deadlier threat than al-Qaeda.
 
-Global numbers:
+|War    |Crime  |Suicide|Diabetes |
+|-------|-------|-------|---------|
+|120,000|500,000|800,000|1,500,000|
 
-|Wild Wolves|Domesticated Dogs|
+☝️ 2012 figures.
+
+Total number of animals worldwide:
+
+|Wild Wolves|Domesticated Dogs (2,000×)|
 |-----------|-----------------|
 |    200,000|      400,000,000|
 
-|Lions |House Cats |
+|Lions |House Cats (15,000×)|
 |------|-----------|
 |40,000|600,000,000|
 
-|African Buffalo|Domesticated Cows|
+|African Buffalo|Domesticated Cows (16,667×)|
 |---------------|-----------------|
 |        900,000|    1,500,000,000|
 
-|Penguins  |Chickens      |
-|----------|--------------|
-|50,000,000|20,000,000,000|
+|Penguins  |Chickens (400×)|
+|----------|---------------|
+|50,000,000| 20,000,000,000|
 
 > At present, more than 90 per cent of the large animals of the world (i.e. those weighing more than a few kilograms) are either humans or domesticated animals.
 
-> Throughout history prophets and philosophers have argued that if humans stopped believing in a great cosmic plan, all law and order would vanish. Yet today, those who pose the greatest threat to global law and order are precisely those people who continue to believe in God and His all-encompassing plans.
+Religion:
 
+> Throughout history prophets and philosophers have argued that if humans stopped believing in a great cosmic plan, all law and order would vanish. Yet today, those who pose the greatest threat to global law and order are precisely those people who continue to believe in God and His all-encompassing plans.
 
 Knowledge economy:
 
