@@ -80,6 +80,8 @@ Notes and summaries.
 
 [How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
 
+[How to Solve It](./maths/how-to-solve-it.md). George Pólya (1945)
+
 [Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
 
 ## Science
