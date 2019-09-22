@@ -6,41 +6,41 @@ Notes and summaries.
 
 [Crossing the Chasm](./business/crossing-the-chasm.md). Geoffrey Moore (1991)
 
-[Shoe Dog: A Memoir by the Creator of Nike](./business/shoe-dog.md). Phil Knight (2016)
+★★★ [Shoe Dog: A Memoir by the Creator of Nike](./business/shoe-dog.md). Phil Knight (2016)
 
 ## Management
 
-[Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
+★★★ [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
 
-[Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](./management/blood-sweat-pixels.md). Jason Reier (2017)
+★★★ [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](./management/blood-sweat-pixels.md). Jason Reier (2017)
 
 [Crucial Conversations: Tools for Talking When Stakes Are High](./management/crucial-conversations.md). Al Switzler, Joseph Grenny, Ron McMillan (2002)
 
-[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](./management/dealers-of-lightning.md). Michael A Hiltzik (1999)
+★★★ [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](./management/dealers-of-lightning.md). Michael A Hiltzik (1999)
 
 [Developing Products in Half the Time](./management/developing-products-in-half-the-time.md). Preston G Smith, Donald G Reinertsen (1997)
 
-[Do Lead: Share Your Vision. Inspire Others. Achieve the Impossible](./management/do-lead.md). Les McKeown (2014)
+★★☆ [Do Lead: Share Your Vision. Inspire Others. Achieve the Impossible](./management/do-lead.md). Les McKeown (2014)
 
 [Drive: The Surprising Truth About What Motivates Us](./management/drive.md). Daniel H Pink (2009)
 
-[Essential Drucker, The](./management/essential-drucker.md). Peter Drucker (2000)
+★★☆ [Essential Drucker, The](./management/essential-drucker.md). Peter Drucker (2000)
 
-[Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
+★★★ [Failure Is Not an Option](./management/failure-is-not-an-option.md). Gene Kranz (2000)
 
-[Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
+★★★ [Five Dysfunctions of a Team, The](./management/five-dysfunctions-of-a-team.md). Patrick Lencioni (2002)
 
-[Idea Factory, The: Bell Labs and the Great Age of American Innovation](./management/idea-factory.md). Jon Gertner (2012)
+★★★ [Idea Factory, The: Bell Labs and the Great Age of American Innovation](./management/idea-factory.md). Jon Gertner (2012)
 
 [Innovators, The: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](./management/innovators.md). Walter Isaacson (2014)
 
-[Skunk Works: A Personal Memoir of My Years of Lockheed](./management/skunk-works.md). Ben Rich, Leo Janos (1994)
+★★★ [Skunk Works: A Personal Memoir of My Years of Lockheed](./management/skunk-works.md). Ben Rich, Leo Janos (1994)
 
 [Surely You're Joking, Mr. Feynman!](./management/surely-youre-joking-mr-feynman.md) Richard Feynman (1985)
 
-[Turn the Ship Around!: How to Create Leadership at Every Level](./management/turn-the-ship-around.md). L David Marquet (2012)
+★★★ [Turn the Ship Around!: How to Create Leadership at Every Level](./management/turn-the-ship-around.md). L David Marquet (2012)
 
-[Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
+★★★ [Rapid Development](./management/rapid-development.md). Steve McConnell (1996)
 
 ### Agile
 
@@ -48,7 +48,7 @@ Notes and summaries.
 
 [Agile Estimating and Planning](./agile/agile-estimating-and-planning.md). Mike Cohn (2005)
 
-[Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
+★★★ [Art of Agile Development, The](./agile/art-of-agile-development.md). James Shore (2003)
 
 [Essential Scrum: A Practical Guide to the Most Popular Agile Process](./agile/essential-scrum.md). Kenneth S Rubin (2012)
 
@@ -64,9 +64,9 @@ Notes and summaries.
 
 [Mindset: The New Psychology of Success](./productivity/mindset.md). Carol Dweck (2006)
 
-[Quiet: The Power of Introverts in a World That Can't Stop Talking](./productivity/quiet.md). Susan Cain (2012)
+★★☆ [Quiet: The Power of Introverts in a World That Can't Stop Talking](./productivity/quiet.md). Susan Cain (2012)
 
-[7 Habits of Highly Effective People, The](./productivity/seven-habits.md). Stephen Covey (1989)
+★★☆ [7 Habits of Highly Effective People, The](./productivity/seven-habits.md). Stephen Covey (1989)
 
 ## Programming
 
@@ -78,7 +78,7 @@ Notes and summaries.
 
 ## Maths
 
-[How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
+★★☆ [How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
 
 [How to Solve It](./maths/how-to-solve-it.md). George Pólya (1945)
 
@@ -86,20 +86,20 @@ Notes and summaries.
 
 ## Science
 
-[Behave: The Biology of Humans at Our Best and Worst](./science/behave.md). Robert Sapolsky (2017)
+★★☆ [Behave: The Biology of Humans at Our Best and Worst](./science/behave.md). Robert Sapolsky (2017)
 
-[Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
+★★☆ [Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
 
 [The Sleep Solution: Why Your Sleep is Broken and how to Fix it](./science/sleep-solution.md). W Chris Winter (2017)
 
-[Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
+★★★ [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
 
 ## Copywriting
 
-[Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
+★★☆ [Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
 
 ## History
 
 [Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
 
-[Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
+★★☆ [Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
