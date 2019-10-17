@@ -68,6 +68,8 @@ Notes and summaries.
 
 ✭✭✩ [7 Habits of Highly Effective People, The](./productivity/seven-habits.md). Stephen Covey (1989)
 
+[Subtle Art of Subtle Art of Not Giving a F*ck, The](./productivity/subtle-art-of-not-giving-a-f.md). Mark Manson (2016)
+
 ## Programming
 
 [Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
