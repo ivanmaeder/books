@@ -4,6 +4,8 @@ By Matthew Walker (2017)
 
 > In the Northern Hemisphere, the switch to daylight savings time in March results in most people losing an hour of sleep opportunity. Should you tabulate millions of daily hospital records, as researchers have done, you discover that this seemingly trivial sleep reduction comes with a frightening spike in heart attacks the following day. Impressively, it works both ways. In the autumn within the Northern Hemisphere, when the clocks move forward and we gain an hour of sleep opportunity time, rates of heart attacks plummet the day after.
 
+⚠️ See: [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/) (Alexey Guzey)
+
 ## My Notes
 
 Lack of sleep has worse effects than the equivalent absence of food or exercise. It increases the risk of:
