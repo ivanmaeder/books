@@ -14,6 +14,8 @@ Notes and summaries.
 
 ✭✭✭ [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](./management/blood-sweat-pixels.md). Jason Reier (2017)
 
+[Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](./management/creative-selection.md). Ken Kocienda (2018)
+
 [Crucial Conversations: Tools for Talking When Stakes Are High](./management/crucial-conversations.md). Al Switzler, Joseph Grenny, Ron McMillan (2002)
 
 ✭✭✭ [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](./management/dealers-of-lightning.md). Michael A Hiltzik (1999)
