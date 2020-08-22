@@ -6,6 +6,8 @@ Harold Arnold:
 
 > "Invention is not to be scheduled nor coerced."
 
+See also ["The Death Of Corporate Research Labs"](https://news.ycombinator.com/item?id=24200764) (David Rosenthal).
+
 ## My Notes
 
 They invented: the transistor, the laser, radio astronomy, the solar cell, information theory, cellular networking, communications satellites…

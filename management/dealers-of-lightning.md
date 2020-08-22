@@ -4,6 +4,8 @@ By Michael A Hiltzik (1999)
 
 > Kay recalled, the groups spend much of the daytime "outside of PARC, playing tennis, bike-riding, drinking beer, eating Chinese food, and constantly talking about the DynaBook and its potential to amplify human reach and bring new ways of thinking to a faltering civilisation that desperately needed it…"
 
+See also ["The Death Of Corporate Research Labs"](https://news.ycombinator.com/item?id=24200764) (David Rosenthal).
+
 ## My Notes
 
 > The best way to manage research was to select the best people in a given field and set them loose… "you cannot tell them what to do."
