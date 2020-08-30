@@ -4,6 +4,12 @@ By Kent Beck (2000)
 
 > [TDD] isn't a testing technique… It's an analysis technique, a design technique, really a technique for structuring all the activities of development.
 
+Also: ["TDD, Where Did it All Go Wrong?" (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM),
+
+- Test the behaviour/interface, not the implementation details, not e.g., classes with mocks in isolation (implementations will change)
+- Getting to green: be sinful/ugly, be the duct tape programmer (shift in aesthetics)
+- Refactor: the general case/pattern etc because you've already implemented it badly
+
 ## My Notes
 
 ### Workflow
