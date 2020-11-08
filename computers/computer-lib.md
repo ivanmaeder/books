@@ -6,6 +6,8 @@ By Ted Nelson (1974, 1987)
 > 
 > It's impossible to recapture the feeling of that earlier time, the personal excitement and joy many of us felt.
 
+On the subject of recapturing that feeling, see: "[Surviving Disillusionment](https://www.spakhm.com/p/surviving-disillusionment)" (Slava Akhmechet).
+
 ## My Notes
 
 > Dream Machines was an advertisement for my own services as a software designer, with free samples. And it was an invitation for smart and idealistic souls to join me in a great and brave undertaking, project Xanadu.

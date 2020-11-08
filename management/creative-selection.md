@@ -20,7 +20,9 @@ Ben Shneiderman on [Direct Manipulation](https://www.youtube.com/watch?v=CWgPe8V
 
 > Most demos—almost all of them—fail in the absolute, dead-end sense of the word.
 
-> We rarely had brainstorming sessions. I recall only a few times in my entire Apple career when I stood around to rough out big plans at a whiteboard.
+> We rarely had brainstorming sessions.
+
+> Whiteboard discussions feel like work, but often they’re not, since it’s too difficult to talk productively about ideas in the abstract.
 
 ### The Keyboard
 

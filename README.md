@@ -90,6 +90,8 @@ Notes and summaries.
 
 [Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
 
+[Maths on the Back of an Envelope](./maths/envelope.md). Rob Eastaway (2019)
+
 ## Science
 
 ✭✭✩ [Behave: The Biology of Humans at Our Best and Worst](./science/behave.md). Robert Sapolsky (2017)
