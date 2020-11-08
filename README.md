@@ -72,13 +72,15 @@ Notes and summaries.
 
 [Subtle Art of Subtle Art of Not Giving a F*ck, The](./productivity/subtle-art-of-not-giving-a-f.md). Mark Manson (2016)
 
-## Programming
+## Computers
 
-[Clean Code: A Handbook of Agile Software Craftsmanship](./programming/clean-code.md). Robert C Martin (2008)
+[Clean Code: A Handbook of Agile Software Craftsmanship](./computers/clean-code.md). Robert C Martin (2008)
 
-[Passionate Programmer, The: Creating a Remarkable Career in Software Development](./programming/passionate-programmer.md). Chad Fowler (2009)
+[Computer Lib/Dream Machines](./computers/computer-lib.md). Ted Nelson (1974, 1987)
 
-[Test-Driven Development by Example](./programming/test-driven-development-by-example.md). Kent Beck (2000)
+[Passionate Programmer, The: Creating a Remarkable Career in Software Development](./computers/passionate-programmer.md). Chad Fowler (2009)
+
+[Test-Driven Development by Example](./computers/test-driven-development-by-example.md). Kent Beck (2000)
 
 ## Maths
 

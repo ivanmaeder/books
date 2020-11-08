@@ -1,6 +1,6 @@
 # Homo Deus: A Brief History of Tomorrow
 
-By Yuval Noah Harari
+By Yuval Noah Harari (2015)
 
 > For the first time in history, more people die today from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined.
 
