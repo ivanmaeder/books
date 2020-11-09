@@ -26,6 +26,8 @@ Notes and summaries.
 
 [Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
 
+[Great Mortality, The](./history/great-mortality.md). John Kelly (2005)
+
 ✭✭✩ [Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
 
 [Origin Story: A Big History of Everything](./history/origin-story.md). David Christian (2018)
