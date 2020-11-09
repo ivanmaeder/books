@@ -8,6 +8,28 @@ Notes and summaries.
 
 ✭✭✭ [Shoe Dog: A Memoir by the Creator of Nike](./business/shoe-dog.md). Phil Knight (2016)
 
+## Computers
+
+[Clean Code: A Handbook of Agile Software Craftsmanship](./computers/clean-code.md). Robert C Martin (2008)
+
+[Computer Lib/Dream Machines](./computers/computer-lib.md). Ted Nelson (1974, 1987)
+
+[Passionate Programmer, The: Creating a Remarkable Career in Software Development](./computers/passionate-programmer.md). Chad Fowler (2009)
+
+[Test-Driven Development by Example](./computers/test-driven-development-by-example.md). Kent Beck (2000)
+
+## Copywriting
+
+✭✭✩ [Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
+
+## History
+
+[Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
+
+✭✭✩ [Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
+
+[Origin Story: A Big History of Everything](./history/origin-story.md). David Christian (2018)
+
 ## Management
 
 ✭✭✭ [Bad Blood: Secrets and Lies in a Silicon Valley Startup](./management/bad-blood.md). John Carreyrou (2018)
@@ -56,6 +78,16 @@ Notes and summaries.
 
 [Scrum: The Art of Doing Twice the Work in Half the Time](./agile/scrum.md). Ron Jeffries (2014)
 
+## Maths
+
+✭✭✩ [How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
+
+[How to Solve It](./maths/how-to-solve-it.md). George Pólya (1945)
+
+[Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
+
+[Maths on the Back of an Envelope](./maths/envelope.md). Rob Eastaway (2019)
+
 ## Productivity
 
 [Deep Work](./productivity/deep-work.md). Cal Newport (2016)
@@ -72,44 +104,12 @@ Notes and summaries.
 
 [Subtle Art of Subtle Art of Not Giving a F*ck, The](./productivity/subtle-art-of-not-giving-a-f.md). Mark Manson (2016)
 
-## Computers
-
-[Clean Code: A Handbook of Agile Software Craftsmanship](./computers/clean-code.md). Robert C Martin (2008)
-
-[Computer Lib/Dream Machines](./computers/computer-lib.md). Ted Nelson (1974, 1987)
-
-[Passionate Programmer, The: Creating a Remarkable Career in Software Development](./computers/passionate-programmer.md). Chad Fowler (2009)
-
-[Test-Driven Development by Example](./computers/test-driven-development-by-example.md). Kent Beck (2000)
-
-## Maths
-
-✭✭✩ [How to Lie with Statistics](./maths/how-to-lie-with-statistics.md). Darrell Huff (1954)
-
-[How to Solve It](./maths/how-to-solve-it.md). George Pólya (1945)
-
-[Joy of x, The: A Guided Tour of Math, from One to Infinity](./maths/joy-of-x.md). Steven Strogatz (2012)
-
-[Maths on the Back of an Envelope](./maths/envelope.md). Rob Eastaway (2019)
-
 ## Science
 
 ✭✭✩ [Behave: The Biology of Humans at Our Best and Worst](./science/behave.md). Robert Sapolsky (2017)
 
 ✭✭✩ [Cosmos: A Personal Voyage](./science/cosmos.md). Carl Sagan (1980)
 
-[The Sleep Solution: Why Your Sleep is Broken and how to Fix it](./science/sleep-solution.md). W Chris Winter (2017)
+[Sleep Solution, The: Why Your Sleep is Broken and how to Fix it](./science/sleep-solution.md). W Chris Winter (2017)
 
-✭✭✭ [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
-
-## Copywriting
-
-✭✭✩ [Letting Go of the Words](./copywriting/letting-go-of-the-words.md). Janice Redish (2007)
-
-## History
-
-[Beethoven: Anguish and Triumph](./history/beethoven.md). Jan Swafford (2014)
-
-✭✭✩ [Homo Deus: A Brief History of Tomorrow](./history/homo-deus.md). Yuval Noah Harari (2015)
-
-[Origin Story: A Big History of Everything](./history/origin-story.md). David Christian (2018)
+✭✭✩ [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
