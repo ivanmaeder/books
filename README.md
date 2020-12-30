@@ -114,4 +114,7 @@ Notes and summaries.
 
 [Sleep Solution, The: Why Your Sleep is Broken and how to Fix it](./science/sleep-solution.md). W Chris Winter (2017)
 
+✭✭✩ [Sociopath Next Door, The: The Ruthless Versus the Rest of Us](./science/sociopath-next-door.md). Martha Stout (2005)
+
 ✭✭✩ [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
+
