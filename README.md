@@ -116,5 +116,7 @@ Notes and summaries.
 
 ✭✭✩ [Sociopath Next Door, The: The Ruthless Versus the Rest of Us](./science/sociopath-next-door.md). Martha Stout (2005)
 
+✭✭✩ [This Changes Everything](./science/this-changes-everything.md). Naomi Klein (2014)
+
 ✭✭✩ [Why We Sleep](./science/why-we-sleep.md). Matthew Walker (2017)
 
