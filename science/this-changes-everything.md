@@ -63,8 +63,10 @@ Bill McKibben:
 
 > … the very thing we must do to avert catastrophe—stop digging—is the very thing these companies cannot contemplate without initiating their own demise.
 
-### Carbon Trading
+#### Carbon Trading
 > The prospect of getting paid real money based on projections of how much of an invisible substance is kept out of the air tends to be something of a scam magnet.
+
+> Once absorbed into this system, a pristine forest may look as lush and alive as ever, but it has actually become an extension of a dirty power plant on the other side of the planet, attached by invisible financial transactions. Polluting smoke may not be billowing from the tops of its trees but it may as well be, since the trees that have been designated as carbon offsets are now allowing that pollution to take place elsewhere.
 
 The EU Emissions Trading System (ETS),
 
@@ -77,20 +79,24 @@ Various studies show companies making windfall profits from the system:
 
 > … rather than getting the polluters to pay for the mess they have created—a basic principle of environmental justice—taxpayers and ratepayers have heaped cash on them and for a scheme that hasn't even worked.
 
-### Wishful Thinking
+#### Wishful Thinking
 Geoengineering, e.g., solar radiation management (blocking the sun's rays),
 
 - Doesn't change the underlying issue
 - Can't be turned off without first removing carbon from the atmosphere
 - Doesn't help with the carbon absorbed by oceans
+- Reasonable level of uncertainty of what the effects will be
 - Volcanic eruptions that blocked the sun have previously caused: drought, famine, flooding…
   - "claiming millions of lives…"
   - "flooding with high mortality rates…"
   - "took the lives of at least 125,000…"
+- Plus…
+
+> And almost no one seems to want to talk about what happens if our geoengineering operations are interrupted for some reason—by war, terrorist attack, mechanical failure, or extreme weather. Or what if, in the middle of simulating the effects of a Mount Pinatubo–like eruption, a real Mount Pinatubo erupts. Would we risk bringing on what David Keith has described as "a worldwide Ice Age, a snowball earth," just because we forgot, yet again, that we are not actually in the driver's seat?
 
 > … science historian James Fleming calls geoengineering schemes "untested and untestable, and dangerous beyond belief."
 
-### Growth
+#### Growth
 Rich countries will suffer the least, but they've done the most harm so far.
 
 Alice Bows-Larkin:
@@ -136,8 +142,6 @@ Encourage zero-carbon sectors to "expand and create jobs" and carbon emission se
 ### Tools
 Blocking fossil fuel extraction, infrastructure development, etc, "in your backyard." E.g., Keystone XL, fracking, mining…
 
-> … fracking opponents could only laugh when, in February 2014, it emerged that none other than Exxon CEO Rex Tillerson had quietly joined a lawsuit opposing fracking-related activities near his $5 million Texas home.
-
 Especially in/near protected or native land.
 
 > "Can we live without water?" the anti-fracking farmers chant in Pungesti, Romania.
@@ -150,6 +154,6 @@ Especially in/near protected or native land.
 
 Remove investments in carbon emitting industries, invest in zero-carbon industries ([Divest-Invest](https://en.wikipedia.org/wiki/Fossil_fuel_divestment)).
 
-Pressure the government:
+Government action:
 
 > Put another way, the real problem is not that trade deals are allowing fossil fuel companies to challenge governments, it's that governments are not fighting back against these corporate challenges.
